@@ -1,0 +1,18 @@
+h1 {  
+    color: red;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  li {
+      color: greenyellow;
+      font-size: 18px;
+  }
+
+  img.portrait {
+      width: 200px;
+      padding: 20px;
+      border: hotpink;
+      border-width: 20px;
+      box-shadow: 10px 5px 5px black;
+  }
