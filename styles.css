@@ -1,18 +1,63 @@
 h1 {  
-    color: red;
-    font-size: 28px;
+    color: indigo;
+    font-size: 100px;
     font-weight: bold;
+    font-family: 'Amatic SC', cursive;
   }
 
-  li {
-      color: greenyellow;
-      font-size: 18px;
+  h3 {
+      font-weight: bolder;
   }
 
-  img.portrait {
-      width: 200px;
-      padding: 20px;
-      border: hotpink;
-      border-width: 20px;
-      box-shadow: 10px 5px 5px black;
+  h4 {
+    color: indigo;
+}
+  
+  .jumbotron {
+    background-attachment: fixed;
+    background-image: url(images/cactus-sunset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black;
   }
+
+.btninfo {
+    color: indigo;
+    background-color: white; 
+    border-color: white;
+    font-family: 'Amatic SC', cursive;
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
+.navbar-brand1 {
+    color: indigo;
+    font-family: 'Beth Ellen', cursive;
+}
+
+.navbar-padding {
+    padding-left: 15px;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+a {
+    color: indigo;
+    font-weight: bolder;
+    
+}
+
+a:hover {
+    color: magenta;
+    text-decoration: none;
+  }
+
+.homepage-grid {
+    padding: 25px;
+    padding-bottom: 50px;
+}
